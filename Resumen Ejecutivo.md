@@ -1,4 +1,4 @@
-## Informe Detallado: Asistente Inteligente para Canal de Isabel II
+## Resumen Ejecutivo: Asistente Inteligente para Canal de Isabel II
 
 ### Introducción
 

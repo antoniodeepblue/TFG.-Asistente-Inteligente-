@@ -58,3 +58,29 @@ Evaluación: "Se implementarán métricas de evaluación para medir el rendimien
 Recomendaciones: "Ampliar el dataset: Aumentar el tamaño y la diversidad del conjunto de datos puede ayudar al modelo a capturar mejor la variabilidad del lenguaje y mejorar su capacidad para generar respuestas precisas y relevantes."
 
 En resumen, este proyecto ha demostrado la viabilidad de utilizar modelos de lenguaje preentrenados para desarrollar un asistente inteligente para el Canal de Isabel II. El trabajo futuro se centrará en mejorar aún más el rendimiento del asistente mediante la implementación de las recomendaciones descritas en este informe.
+
+### Glosario de Términos Clave:
+
+Asistente inteligente: Un programa informático que utiliza la inteligencia artificial para interactuar con los usuarios y proporcionar información o realizar tareas.
+
+BERT: Un modelo de lenguaje pre-entrenado desarrollado por Google que destaca en tareas de comprensión del lenguaje natural.
+
+Fine-tuning: El proceso de ajustar un modelo pre-entrenado a un conjunto de datos específico para una tarea específica.
+
+Inferencia: El proceso de utilizar un modelo entrenado para realizar predicciones o generar resultados en nuevos datos.
+
+LLM: Modelo de lenguaje pre-entrenado, un modelo de aprendizaje automático entrenado con grandes cantidades de datos de texto.
+
+Mixtral: Un modelo de lenguaje pre-entrenado eficiente y escalable que utiliza una arquitectura de solo decodificador.
+
+Procesamiento del lenguaje natural (PLN): Un campo de la inteligencia artificial que se centra en la interacción entre las computadoras y el lenguaje humano.
+
+Puntuación F1: Una métrica que combina la precisión y la recuperación para evaluar el rendimiento de un modelo en una tarea de clasificación.
+
+Precisión: Una métrica que mide la proporción de predicciones positivas correctas en relación con el total de predicciones positivas.
+
+Recuperación: Una métrica que mide la proporción de predicciones positivas correctas en relación con el total de ejemplos positivos reales.
+
+Tokenización: El proceso de dividir un texto en unidades más pequeñas llamadas tokens, que pueden ser palabras, subpalabras o caracteres.
+
+Transformers: Una arquitectura de red neuronal que ha revolucionado el campo del procesamiento del lenguaje natural por su capacidad para modelar relaciones complejas entre palabras en una secuencia.
